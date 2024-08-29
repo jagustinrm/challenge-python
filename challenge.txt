@@ -1,0 +1,59 @@
+Challenge #1: Object Oriented Challenge
+
+Using whichever object oriented programming language you prefer (preferably Java or Python), write a program that can solve the following requirements. You can write this program locally, or using a web-based Java Online Compiler such as Programiz or JSFiddle.
+
+Requirements:
+
+1. Create a Class that represents a Zoo that you own. Here are some following
+characteristics of the Zoo Class: ✔
+a. Holds the following information about the zoo:
+i. Name ✔
+ii. City ✔
+iii. Operating Hours ✔ 
+b. Can keep track of one or more Animals that currently live in the Zoo. This
+includes:
+i. Ability to print out how many Animals are currently in the zoo ✔
+ii. Ability to add an Animal to the Zoo  ✔
+iii. Ability to remove an Animal from the Zoo ✔
+iv. Ability to print out descriptions of all the Animals that currently live
+in the zoo ✔
+v. Ability to determine, depending on the current day of the week, the
+current Admission Price. Price is based on the following:  ✔
+1. Monday & Tuesday: $19.99 
+2. Wednesday: $9.99
+3. Thursday & Friday: $19.99
+4. Saturday & Sunday: $25.99
+
+2. Create another Class to represent an Animal that lives in the Zoo. Here are some
+following characteristics of the Animal Class: ✔
+a. Holds the following information about the Animal:
+i. Animal Species  ✔
+ii. Name ✔
+iii. Number of Legs ✔
+iv. Gender ✔
+b. Has the ability to print out a description of the Animal using the class level
+information  ✔
+
+3. Create at 3 additional Classes that extend the Animal Class and represent 3
+different species:
+a. Giraffe ✔
+i. When a Giraffe is created, define the current height (in meters)  ✔
+ii. Has a method that can be used to compare how this Giraffe’s
+height compares to other Giraffes. For your reference: 
+1. Male giraffes are an average of 5.5 meters tall ✔
+2. Female giraffes are an average of 4.6 meters tall ✔
+
+b. Crocodile
+i. When a Crocodile is created, define the number of teeth it has ✔
+ii. Has a method that logs out its favorite food  ✔ CUÁL SERÍA?
+
+c. Giant Tortoise
+i. When a Giant Tortoise is created, define its current age ✔
+ii. Has a method to determine whether the Giant Tortoise is young,
+middle-aged, or old. For your reference: ✔
+1. Under 50 is young
+2. Between 50 - 100 is middle-aged
+3. Over 100 is old
+
+4. Run the program to demonstrate that you have accomplished all the
+requirements.
