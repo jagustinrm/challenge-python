@@ -1,18 +1,25 @@
-Zoo Management System
+# Zoo Management System
 
-**How to Use**
+## How to Use
 
-Installation: 
--No additional libraries are required
--The program runs only with Python.
+### Installation
 
+- No additional libraries are required.
+- The program runs with Python only.
 
-**Running the Application:**
+### Running the Application
 
-1. Run the main file of the program with the command: 
+1. **Run the main file of the program** with the following command:
 
-python main.py
+    ```bash
+    python main.py
+    ```
 
-2. At the start, you'll be prompted to set up a new zoo by entering the name, city, and selecting operating hours.
+2. **Set up your Zoo:**
+   - At the start, you'll be prompted to set up a new zoo by entering:
+     - **Name**
+     - **City**
+     - **Operating Hours**
 
-3. Use the interactive menu to manage the zoo.
+3. **Manage the Zoo:**
+   - Use the interactive menu to manage the zoo and perform various operations.
